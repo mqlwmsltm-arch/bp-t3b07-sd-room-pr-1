@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity 9bd79b5f4a41f1d9</metadata>
-  <rect width="64" height="64" rx="9" fill="hsl(295 73% 26%)"/>
-  <path d="M36 0h28v64H22Z" fill="hsl(353 58% 55%)" opacity="0.82"/>
-  <g transform="rotate(210 32 32)" opacity="0.42"><path d="M14 20h36L32 50Z" fill="none" stroke="#ffffff" stroke-width="7" stroke-linejoin="round"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">SR</text>
+  <title>신도림 룸싸롱 가격</title>
+  <rect width="64" height="64" rx="11" fill="hsl(295 69% 34%)"/>
+  <g transform="rotate(180 32 32)"><g fill="none" stroke="hsl(295 24% 96%)" stroke-width="8" stroke-linecap="round"><path d="M32 14a18 18 0 0 1 18 18"/><path d="M32 50a18 18 0 0 1-18-18"/></g><path d="M50 32a18 18 0 0 1-18 18" fill="none" stroke="hsl(15 68% 59%)" stroke-width="8" stroke-linecap="round"/></g>
 </svg>
